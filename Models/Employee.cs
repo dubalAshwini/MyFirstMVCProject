@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace myFirstMVCProject.Models
 {
+    [Table("EmployeeTbl")]
     public class Employee
     {
         public int EmployeeId { get; set; }

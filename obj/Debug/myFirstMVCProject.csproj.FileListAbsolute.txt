@@ -77,6 +77,6 @@ C:\Ashwini\Tryal\ASP.NET MVC\myFirstMVCProject\myFirstMVCProject\bin\Microsoft.O
 C:\Ashwini\Tryal\ASP.NET MVC\myFirstMVCProject\myFirstMVCProject\bin\Microsoft.Owin.Security.Google.xml
 C:\Ashwini\Tryal\ASP.NET MVC\myFirstMVCProject\myFirstMVCProject\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Ashwini\Tryal\ASP.NET MVC\myFirstMVCProject\myFirstMVCProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Ashwini\Tryal\ASP.NET MVC\myFirstMVCProject\myFirstMVCProject\obj\Debug\myFirstMVCProject.csprojResolveAssemblyReference.cache
 C:\Ashwini\Tryal\ASP.NET MVC\myFirstMVCProject\myFirstMVCProject\obj\Debug\myFirstMVCProject.dll
 C:\Ashwini\Tryal\ASP.NET MVC\myFirstMVCProject\myFirstMVCProject\obj\Debug\myFirstMVCProject.pdb
+C:\Ashwini\Tryal\ASP.NET MVC\myFirstMVCProject\myFirstMVCProject\obj\Debug\myFirstMVCProject.csprojResolveAssemblyReference.cache
